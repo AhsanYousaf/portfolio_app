@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio_app/static/css/main.cb4c7299.css",
+    "main.js": "/portfolio_app/static/js/main.75827ee2.js",
+    "static/media/me.png": "/portfolio_app/static/media/me.232ce4d1331cdbf94740.png",
+    "static/media/cv.pdf": "/portfolio_app/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/me-about.jpg": "/portfolio_app/static/media/me-about.10b586337daf0cfcf0b1.jpg",
+    "static/media/portfolio5.png": "/portfolio_app/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/portfolio_app/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/portfolio_app/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/portfolio_app/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/portfolio_app/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/portfolio_app/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/portfolio_app/index.html",
+    "main.cb4c7299.css.map": "/portfolio_app/static/css/main.cb4c7299.css.map",
+    "main.75827ee2.js.map": "/portfolio_app/static/js/main.75827ee2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb4c7299.css",
+    "static/js/main.75827ee2.js"
+  ]
+}
