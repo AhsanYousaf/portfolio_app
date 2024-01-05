@@ -11,33 +11,38 @@ const Services = () => {
       <div className='container services__container'>
         <article className='service'>
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h3>Full Stack Development</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consider elit</p>
+              <p>Saas product</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consider elit</p>
+              <p>Web applications</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consider elit</p>
+              <p>Database management</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consider elit</p>
+              <p>End to end development</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consider elit</p>
+              <p>Deployment</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Fully custom website</p>
             </li>
 
           </ul>
@@ -45,67 +50,79 @@ const Services = () => {
 
         <article className='service'>
           <div className="service__head">
-            <h3>Web Development</h3>
+            <h3>Frontend Development</h3>
           </div>
 
           <ul className='service__list'>
+
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consider elit</p>
+              <p>Custom web development</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consider elit</p>
+              <p>UI to UX conversion</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consider elit</p>
+              <p>Responsive design</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consider elit</p>
+              <p>Api integration</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consider elit</p>
+              <p>Performance optimization</p>
             </li>
+
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Secure website</p>
+            </li>
+            
 
           </ul>
         </article>
 
         <article className='service'>
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Backend Development</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consider elit</p>
+              <p>Api creation</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consider elit</p>
+              <p>Database creation</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consider elit</p>
+              <p>Database connectivity</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consider elit</p>
+              <p>Secure development</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem, ipsum dolor sit amet consider elit</p>
+              <p>Optimize performance</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Deployment</p>
             </li>
 
           </ul>

@@ -33,17 +33,17 @@ const About = () => {
             <article className='about__card'>
               <FiUsers className='about__icon' />
               <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <small>20+ Worldwide</small>
             </article>
 
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>30+ Completed</small>
             </article>
           </div>
 
-          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi recusandae, cum praesentium tempora et sed fugiat distinctio eveniet harum facilis adipisci. Omnis dignissimos eligendi magnam, architecto cupiditate odio enim fugiat!</p>
+          <p>I'm Ahsan Yousaf, a seasoned full-stack developer passionate about creating cutting-edge and seamless web applications. With proficiency in both front-end and back-end technologies, I bring a meticulous attention to detail to every project. I strive to deliver high-quality code and exceed expectations, making me a valuable asset to any development team.</p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
