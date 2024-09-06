@@ -9,6 +9,9 @@ import IMG6 from "../../assets/portfolio6.png";
 import IMG7 from "../../assets/portfolio7.png";
 import IMG8 from "../../assets/portfolio8.png";
 import IMG9 from "../../assets/portfolio9.png";
+import IMG10 from "../../assets/portfolio10.png";
+import IMG11 from "../../assets/portfolio11.png";
+import IMG12 from "../../assets/portfolio12.png";
 
 const Portfolio = () => {
   return (
@@ -38,15 +41,15 @@ const Portfolio = () => {
 
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={IMG3} alt="" />
+            <img src={IMG10} alt="" />
           </div>
-          <h3>Body Doctor</h3>
+          <h3>The Bull & Lobster</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com" className="btn" target="_blank">
               Github
             </a>
             <a
-              href="https://bodydoctorgym.co.uk/"
+              href="https://www.thebullandlobster.org/"
               className="btn btn-primary"
               target="_blank"
             >
@@ -66,6 +69,44 @@ const Portfolio = () => {
             </a>
             <a
               href="https://cakecrush.ae/"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
+        </article>
+
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={IMG1} alt="" />
+          </div>
+          <h3>Mailavail</h3>
+          <div className="portfolio__item-cta">
+            <a href="https://github.com" className="btn" target="_blank">
+              Github
+            </a>
+            <a
+              href="https://www.mailavail.co/"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
+        </article>
+
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={IMG3} alt="" />
+          </div>
+          <h3>Body Doctor</h3>
+          <div className="portfolio__item-cta">
+            <a href="https://github.com" className="btn" target="_blank">
+              Github
+            </a>
+            <a
+              href="https://bodydoctorgym.co.uk/"
               className="btn btn-primary"
               target="_blank"
             >
@@ -152,15 +193,15 @@ const Portfolio = () => {
 
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={IMG1} alt="" />
+            <img src={IMG5} alt="" />
           </div>
-          <h3>Mailavail</h3>
+          <h3>Mailavail Help Website</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com" className="btn" target="_blank">
               Github
             </a>
             <a
-              href="https://www.mailavail.io/"
+              href="https://help.mailavail.io/"
               className="btn btn-primary"
               target="_blank"
             >
@@ -171,9 +212,28 @@ const Portfolio = () => {
 
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={IMG5} alt="" />
+            <img src={IMG11} alt="" />
           </div>
-          <h3>Mailavail Help Website</h3>
+          <h3>Arya Noor Jewelry</h3>
+          <div className="portfolio__item-cta">
+            <a href="https://github.com" className="btn" target="_blank">
+              Github
+            </a>
+            <a
+              href="https://help.mailavail.io/"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
+        </article>
+
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={IMG12} alt="" />
+          </div>
+          <h3>NFC Cards</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com" className="btn" target="_blank">
               Github
